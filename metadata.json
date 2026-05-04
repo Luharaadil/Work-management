@@ -1,0 +1,6 @@
+{
+  "name": "Apps Script Task Manager",
+  "description": "Provides Google Apps Script and HTML code to run a Task Management System atop Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
